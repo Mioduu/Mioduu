@@ -17,9 +17,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
   <a href="https://www.youtube.com/@miodu1570" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/youtube.svg" alt="YouTube" width="45" height="45"/>
   </a>
   <a href="https://discord.com/users/402904875350097930" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" alt="Discord" width="45" height="45"/>
   </a>
 </p>
