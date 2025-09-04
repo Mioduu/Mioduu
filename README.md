@@ -11,3 +11,15 @@
 ## 📈 My github History
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mioduu&layout=compact)
 
+## 💬 Socials
+<p align="left">
+  <a href="https://www.linkedin.com/in/maciej-polak2/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
+  </a>
+  <a href="https://www.youtube.com/@miodu1570" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="45" height="45"/>
+  </a>
+  <a href="https://discord.com/users/402904875350097930" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="45" height="45"/>
+  </a>
+</p>
