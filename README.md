@@ -35,7 +35,7 @@ Always curious, always learning, and always up for a challenge! 🚀
 
 ### Coming Soon
 -  **Rock Paper Scissors Multiplayer** – Project rescheduled
--  **WeatherAPP - Currently working on it
+-  **WeatherAPP** - Currently working on it
 ---
 ## 💬 Socials
 <p align="left">
