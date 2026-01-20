@@ -19,6 +19,7 @@ Always curious, always learning, and always up for a challenge! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45">
 </p>
 
 ---
@@ -33,7 +34,8 @@ Always curious, always learning, and always up for a challenge! 🚀
 - [Music Player in Go](https://github.com/Mioduu/Musicplayer)
 
 ### Coming Soon
--  **Rock Paper Scissors Multiplayer** – In development 🎮
+-  **Rock Paper Scissors Multiplayer** – Project rescheduled
+-  **WeatherAPP - Currently working on it
 ---
 ## 💬 Socials
 <p align="left">
