@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 ## 👋 About Me
-Hi! I'm **Maciej** – a 18-year-old developer exploring **Go, JavaScript, and Python**.  
+Hi! I'm **Maciej** – a 19-year-old developer exploring **Go, JavaScript, and Python**.  
 I love building small projects, learning new technologies, and sharing what I create.  
 
 When I'm not coding, you can find me:  
