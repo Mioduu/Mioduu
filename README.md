@@ -32,6 +32,7 @@ Always curious, always learning, and always up for a challenge! 🚀
 
 ### Live / Available
 - [Music Player in Go](https://github.com/Mioduu/Musicplayer)
+- [Minecraft AI Agent](https://github.com/Mioduu/MinecraftAIAgent)
 
 ### Coming Soon
 -  **Rock Paper Scissors Multiplayer** – Project rescheduled
